@@ -5,5 +5,5 @@ Author - Fatema Chowdhury </br>
 https://chowdhuryfatema.github.io/Notes-App/
 ## Technologies
 -Html </br>
--Row CSS </br>
+-Raw CSS </br>
 -JavaScript
